@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Nov  8 01:02:49 2024
+# Process ID: 9200
+# Current directory: C:/Users/user/Desktop/project/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17416 C:\Users\user\Desktop\project\project_1\project_1.xpr
+# Log file: C:/Users/user/Desktop/project/project_1/vivado.log
+# Journal file: C:/Users/user/Desktop/project/project_1\vivado.jou
+# Running On        :DESKTOP-HJLNQFF
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 5 5600G with Radeon Graphics         
+# CPU Frequency     :3893 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16999 MB
+# Swap memory       :9663 MB
+# Total Virtual     :26663 MB
+# Available Virtual :16442 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/user/Desktop/project/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
